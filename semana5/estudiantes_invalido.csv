@@ -1,0 +1,31 @@
+Student_ID,Semester_ID,Age,Gender,Region_Type,Family_Size,Major_Subject,University_Name,Home_City,Parent_Education,Family_Income_Level,Internet_Quality,Study_Space_Quality,Previous_GPA,Number_of_Failed_Courses,Total_Credits_Earned,Weekly_Study_Hours,Attendance_Rate,Library_Visits_Per_Month,Extracurricular_Hours,Sleep_Hours
+,1,150,Female,,big,Engineering,Uni B,City1,Master,Low,Good,,3.1,none,30.0,,150.0,,mucho,6
+100001,1,,Male,,2,Law,,City1,,Low,Poor,7.2,,,60.0,10,80.0,,,6
+100002,1,,Female,,,Engineering,,City2,,,Poor,alta,2.5,none,,muchas,80.0,diez,,-3
+100003,4,20,Unknown,Urban,2,Engineering,,City1,,Middle,Poor,7.2,tres,,60.0,muchas,90.0,10,mucho,
+100004,first,18,Male,,2,123,,City1,,Low,,7.2,-1,1,60.0,,,,mucho,6
+100005,1,20,,,big,Engineering,Uni A,,,Middle,Good,,,none,60.0,20,90.0,5,2.5,
+100006,2,veinte,Male,,4,Law,Uni B,City2,,Low,Good,,,,-10.0,muchas,80.0,,5.0,6
+,2,22,Female,Urban,4,123,,,,???,,5.5,-1,0,60.0,20,-20.0,diez,5.0,
+100008,1,22,Female,Urban,big,Engineering,,City2,,High,,5.5,-1,1,,10,-20.0,,mucho,
+100009,4,18,,Urban,4,Law,,,Bachelor,High,,alta,2.5,none,30.0,,-20.0,diez,5.0,6
+100010,first,-5,Female,,2,,,City1,Bachelor,???,Poor,alta,2.5,none,60.0,20,-20.0,diez,5.0,
+100011,3,veinte,Female,Urban,2,,Uni B,City2,Bachelor,???,,,2.5,,30.0,,,diez,mucho,8
+100012,2,veinte,Male,Urban,6,Law,,City1,Master,Low,,,3.1,,,,,,mucho,8
+100013,first,22,Unknown,,6,Engineering,,City2,Master,Low,Poor,5.5,-1,1,,20,,diez,5.0,-3
+,first,veinte,Male,Urban,,,,,Master,,,alta,-1,1,,,,10,,6
+100015,2,,,Urban,4,123,Uni B,City2,Master,,,7.2,2.5,1,,muchas,,10,mucho,6
+100016,4,veinte,Unknown,Rural,2,,Uni B,City2,Master,Low,,,3.1,,-10.0,muchas,150.0,10,2.5,
+100017,4,veinte,,,4,Engineering,Uni B,City2,,Low,Poor,alta,3.1,2,60.0,20,-20.0,,2.5,
+100018,first,,,Urban,6,123,Uni B,City1,,,Good,7.2,tres,,60.0,muchas,,5,2.5,8
+100019,1,veinte,Female,Rural,4,Engineering,,,Bachelor,Low,Good,5.5,2.5,none,-10.0,,90.0,5,5.0,-3
+100020,first,18,Male,,4,,Uni B,,,???,Poor,7.2,3.1,,60.0,,-20.0,10,mucho,ocho
+,2,20,Unknown,Rural,2,,,,Bachelor,Low,Poor,7.2,-1,0,-10.0,,150.0,10,2.5,
+100022,5,150,Unknown,,,Engineering,Uni A,City1,Master,???,,alta,tres,1,-10.0,10,,,2.5,
+100023,3,18,,Urban,,,Uni A,,Master,???,Poor,7.2,tres,0,-10.0,,150.0,,mucho,6
+100024,5,150,,Urban,6,123,,City2,,,,7.2,3.1,none,60.0,20,150.0,10,,
+100025,first,,Unknown,Urban,,,Uni A,City1,Bachelor,Low,,,,1,,10,150.0,,5.0,-3
+100026,2,veinte,Male,Urban,6,Engineering,Uni A,,,???,,5.5,3.1,none,30.0,10,150.0,diez,,ocho
+100027,first,,Unknown,Rural,4,123,Uni A,,Bachelor,???,,5.5,3.1,none,30.0,20,150.0,10,5.0,6
+,4,18,Unknown,Rural,6,Engineering,,,,,,5.5,3.1,2,-10.0,muchas,90.0,,2.5,ocho
+100029,4,18,,Rural,4,123,,City2,,High,,,3.1,1,60.0,10,150.0,,5.0,
